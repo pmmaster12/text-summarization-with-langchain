@@ -1,0 +1,1 @@
+# text summarization with langchain and groq api of google gemma model
